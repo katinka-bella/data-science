@@ -1,0 +1,14 @@
+# local config files
+config
+config_admin.json
+key
+
+# cache
+__pycache__
+*checkpoint*
+.DS_Store
+.idea
+
+# virtual env 
+venv
+.venv
